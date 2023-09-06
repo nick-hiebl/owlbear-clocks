@@ -1,12 +1,12 @@
 {
-  "name": "FITD Dice Roller",
+  "name": "Clocks",
   "version": "0.0.2",
   "manifest_version": 1,
-  "homepage_url": "https://nick-hiebl.github.io/owlbear-fitd-dice-roller/index.html",
+  "homepage_url": "https://nick-hiebl.github.io/owlbear-clocks/index.html",
   "action": {
-    "title": "FITD Dice Roller",
-    "icon": "./icon.svg",
-    "popover": "/owlbear-fitd-dice-roller/index.html",
+    "title": "Clocks",
+    "icon": "/owlbear-clocks/clock.svg",
+    "popover": "/owlbear-clocks/",
     "height": 250,
     "width": 400
   }

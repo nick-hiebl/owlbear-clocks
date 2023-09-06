@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/owlbear-fitd-dice-roller/static/css/main.b5ca935b.css",
-    "main.js": "/owlbear-fitd-dice-roller/static/js/main.773bb6cd.js",
-    "static/js/787.a9120f67.chunk.js": "/owlbear-fitd-dice-roller/static/js/787.a9120f67.chunk.js",
-    "index.html": "/owlbear-fitd-dice-roller/index.html",
-    "main.b5ca935b.css.map": "/owlbear-fitd-dice-roller/static/css/main.b5ca935b.css.map",
-    "main.773bb6cd.js.map": "/owlbear-fitd-dice-roller/static/js/main.773bb6cd.js.map",
-    "787.a9120f67.chunk.js.map": "/owlbear-fitd-dice-roller/static/js/787.a9120f67.chunk.js.map"
+    "main.css": "/owlbear-clocks/static/css/main.c0533ef7.css",
+    "main.js": "/owlbear-clocks/static/js/main.fcbf8220.js",
+    "static/js/787.aff0ca60.chunk.js": "/owlbear-clocks/static/js/787.aff0ca60.chunk.js",
+    "index.html": "/owlbear-clocks/index.html",
+    "main.c0533ef7.css.map": "/owlbear-clocks/static/css/main.c0533ef7.css.map",
+    "main.fcbf8220.js.map": "/owlbear-clocks/static/js/main.fcbf8220.js.map",
+    "787.aff0ca60.chunk.js.map": "/owlbear-clocks/static/js/787.aff0ca60.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.b5ca935b.css",
-    "static/js/main.773bb6cd.js"
+    "static/css/main.c0533ef7.css",
+    "static/js/main.fcbf8220.js"
   ]
 }
